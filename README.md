@@ -664,7 +664,7 @@ This project exists thanks to all the people who contribute. [[Contribute]](http
 
 ## Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/front-end-checklist#backer)]
+Thank you to all our backers!!! 🙏 [[Become a backer](https://opencollective.com/front-end-checklist#backer)]
 
 <a href="https://opencollective.com/front-end-checklist#backers" target="_blank"><img src="https://opencollective.com/front-end-checklist/backers.svg?width=890" alt="Backers"></a>
 
@@ -691,3 +691,4 @@ All icons are provided by [Icons8](https://icons8.com/)
 [low]: https://raw.githubusercontent.com/thedaviddias/Front-End-Performance-Checklist/refs/heads/main//images/priority/low.svg
 [medium]: https://raw.githubusercontent.com/thedaviddias/Front-End-Performance-Checklist/refs/heads/main//images/priority/medium.svg
 [high]: https://raw.githubusercontent.com/thedaviddias/Front-End-Performance-Checklist/refs/heads/main//images/priority/high.svg
+[css]: https://raw.githubusercontent.com/thedaviddias/Front-End-Performance-Checklist/refs/heads/main//images/css.png
